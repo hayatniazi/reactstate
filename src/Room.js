@@ -23,7 +23,7 @@ function Room() {
     }
     return (
     <div>
-        Huma Hayat love lit room, but light colors so now it's {isLit ? 'Lit' : 'Dark'} and she is { happy ? "Happy" : "Sad"}.
+        Hayat love lit room, but light colors so now it's {isLit ? 'Lit' : 'Dark'} and he is { happy ? "Happy" : "Sad"}.
         <br/>
         Age : {getAge}
         <br/>
