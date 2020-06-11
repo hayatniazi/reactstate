@@ -1,0 +1,83 @@
+.room {
+height: 100vh;
+
+}
+
+.lit {
+    background-color: teal;
+    color: black;
+}
+
+.dark {
+
+    background-color: black;
+    color: white;
+}
+*{
+    
+    margin: 0;
+}
+h1{
+    text-align: center;
+    
+}
+h4{
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 15px;
+  margin-left: 8px;
+}
+h5{
+    font-family: "Times New Roman", Times, serif;
+    color: tomato;
+    margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 15px;
+  margin-left: 150px;
+}
+.c{
+    
+  font-family: Impact;
+
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 15px;
+  margin-left: 8px;
+
+}
+p{
+    text-align: center;
+
+}
+.b{
+    
+    font-family: Impact, Charcoal, sans-serif;
+
+    border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 15px;
+  margin-left: 8px;
+
+}
+.d{
+    
+    font-family: Impact, Charcoal, sans-serif;
+
+    border: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 15px;
+  margin-left: 300px;
+
+}
+.m{
+    font-family: Impact, Charcoal, sans-serif;
+    border: 1px solid black;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  margin-right: 1px;
+  margin-left: 1px;
+}
