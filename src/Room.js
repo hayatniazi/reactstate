@@ -26,7 +26,7 @@ function Room() {
         
         <hr/>
         <h4>I created this page using ReactJs with surge deployment using github action. Below buttons are asigned some specific functionalities which you can test by yourself and find out what each button do.</h4>
-        <p>Hayat love lit room, but light colors so now it's {isLit ? "lit" : "dark"} and he is { happy ? "Happy" : "Sad"}. He said his age is : {getAge} but I don't think so, click below button to increase his age you think he is..:D.Take a screenshot and send back to me after increasing my age and setting my room light.</p> 
+        <p>Hayat love lit room, but light colors so now it's {isLit ? "lit" : "dark"} and he is { happy ? "Happy" : "Sad"}. He said his age is : <h3>{getAge}</h3> but I don't think so, click below button to increase his age you think he is..:D.Take a screenshot and send back to me after increasing my age and setting my room light.</p> 
         <br/>
         <button className='d' onClick={update}>Toggle Light</button>
     
@@ -41,7 +41,7 @@ function Room() {
         >Arrow function</button> */}
 
         <h5>Thank you for visiting my page, it is just for fun and learning and I know reading this line is difficult..:p</h5>
-        <p><i>Hayat Muhammad Niazi</i></p>
+        <p><i>Hayat Muhammad Niazi..!</i></p>
     </div>
 );
 }
